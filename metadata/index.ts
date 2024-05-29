@@ -7,9 +7,9 @@ export const siteDescription = '逸云的博客'
 export const include = ['笔记']
 
 /** Repo */
-export const githubRepoLink = 'https://github.com/hingchou/blog'
+export const githubRepoLink = 'https://github.com/hingchou'
 /** Discord */
-export const discordLink = 'https://discord.gg/fnwTQRbX'
+export const discordLink = 'https://discord.gg/WzrznAfz'
 
 /** 无协议前缀域名 */
 export const plainTargetDomain = 'arnoldxiao.com'
