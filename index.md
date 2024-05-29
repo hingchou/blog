@@ -21,7 +21,7 @@ hero:
     #   link: https://discord.gg/fnwTQRbX
     - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/arnoldxiao/blog
+      link: https://github.com/hingchou
 
 features:
   - title: 航海笔记

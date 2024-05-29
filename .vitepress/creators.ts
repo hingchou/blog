@@ -24,13 +24,13 @@ export const creators: Creator[] = [
     avatar: '',
     username: 'arnoldxiao',
     title: '博客作者',
-    desc: '全栈开发者，渴望理解世界的运作模式',
+    desc: '出航！！',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/arnoldxiao' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/realarnoldxiao' },
+      { type: 'github', icon: 'github', link: 'https://github.com/hingchou' },
+      { type: 'twitter', icon: 'twitter', link: 'https://x.com/nightowlhc' },
     ],
-    nameAliases: ['arnoldxiao', '肖鉴津'],
-    emailAliases: ['jackie.xiao@outlook.com'],
+    nameAliases: ['arnoldxiao', '逸云'],
+    emailAliases: ['nightowlhc@gmail.com'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
