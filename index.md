@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: jackiexiao
-titleTemplate: 宇宙为何存在,而非一片虚无
+title: arnold xiao
+titleTemplate: 航海日记
 
 hero:
-  name: jackiexiao
-  text: jackie的博客
-  tagline: 宇宙为何存在,而非一片虚无
+  name: arnold xiao
+  text: arnold xiao的博客
+  tagline: arnold xiao的航海日记
   image:
     src: /logo.svg
     alt: Vitest

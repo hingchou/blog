@@ -1,15 +1,15 @@
 {
-  "name": "jackiexiao_blog",
+  "name": "arnoldxiao_blog",
   "type": "module",
   "version": "1.0.0",
   "author": {
-    "name": "jackiexiao",
-    "email": "jackie.xiao@outlook.com",
-    "url": "https://github.com/jackiexiao/blog"
+    "name": "arnoldxiao",
+    "email": "nightowlhc@gmail.com",
+    "url": "https://github.com/hingchou"
   },
   "license": "MIT",
   "keywords": [
-    "jackiexiao",
+    "arnoldxiao",
     "vitepress",
     "nolebase",
     "markdown",
