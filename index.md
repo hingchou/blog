@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: arnold xiao
+title: 逸云
 titleTemplate: 航海日记
 
 hero:
-  name: arnold xiao
-  text: arnold xiao的博客
-  tagline: arnold xiao的航海日记
+  name: 逸云
+  text: 逸云的博客
+  tagline: 逸云的航海日记
   image:
     src: /logo.svg
     alt: Vitest
@@ -30,8 +30,8 @@ features:
   - title: 产品随想
     details: 产品随想
     icon: 🚀
-  - title: 随想
-    details: 一切
+  - title: 生命随想
+    details: 生命随想
     icon: 🗃
 ---
 
