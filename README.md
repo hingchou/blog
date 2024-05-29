@@ -1,6 +1,6 @@
-# Jackiexiao's blog
-Jackiexiao 的博客
+# arnoldxiao's blog
+arnoldxiao 的博客
 
-https://jackiexiao.com
+https://arnoldxiao.com
 
 基于 [nolebase](https://github.com/nolebase/nolebase/): vitepress + obsidian

@@ -149,7 +149,7 @@ export default defineConfig({
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
       copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> © 2022-PRESENT jackiexiao <br/> <a class="footer-cc-link" target="_blank" href="https://beian.miit.gov.cn/">粤ICP备2022122081号-1</a>',
+        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> © 2022-PRESENT arnoldxiao <br/> <a class="footer-cc-link" target="_blank" href="https://beian.miit.gov.cn/">粤ICP备2022122081号-1</a>',
     },
     search: {
       provider: 'local',

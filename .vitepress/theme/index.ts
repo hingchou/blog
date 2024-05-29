@@ -150,8 +150,8 @@ const ExtendedTheme: Theme = {
 
     // Obtain configuration from: https://giscus.app/
     giscusTalk({
-      repo: 'Jackiexiao/blog',
-      repoId: 'MDEwOlJlcG9zaXRvcnkyOTI3NzQwMzU',
+      repo: 'hingchou/blog',
+      repoId: 'MDQ6VXNlcjEzMjY2NjU2',
       category: 'Announcements', // default: `General`
       categoryId: 'DIC_kwDOEXNgk84CfTgS',
       mapping: 'pathname', // default: `pathname`

@@ -20,16 +20,16 @@ const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
 
 export const creators: Creator[] = [
   {
-    name: 'jackiexiao',
+    name: 'arnoldxiao',
     avatar: '',
-    username: 'jackiexiao',
+    username: 'arnoldxiao',
     title: '博客作者',
     desc: '全栈开发者，渴望理解世界的运作模式',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/jackiexiao' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/realjackiexiao' },
+      { type: 'github', icon: 'github', link: 'https://github.com/arnoldxiao' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/realarnoldxiao' },
     ],
-    nameAliases: ['jackiexiao', '肖鉴津'],
+    nameAliases: ['arnoldxiao', '肖鉴津'],
     emailAliases: ['jackie.xiao@outlook.com'],
   },
 ].map<Creator>((c) => {

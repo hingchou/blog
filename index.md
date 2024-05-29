@@ -21,17 +21,17 @@ hero:
     #   link: https://discord.gg/fnwTQRbX
     - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/jackiexiao/blog
+      link: https://github.com/arnoldxiao/blog
 
 features:
-  - title: 语音AI算法
-    details: 语音算法,资源,教程
+  - title: 航海笔记
+    details: 关于出海的日记
     icon: 📃
-  - title: 程序员的日常
-    details: 一堆好玩有用的效率工具,极客生活记录
+  - title: 产品随想
+    details: 产品随想
     icon: 🚀
-  - title: LessWrong
-    details: 怀疑一切,从头构建关于世界的知识
+  - title: 随想
+    details: 一切
     icon: 🗃
 ---
 
