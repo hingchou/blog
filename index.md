@@ -6,9 +6,9 @@ title: 逸云
 titleTemplate: 航海日记
 
 hero:
-  name: 逸云
-  text: 逸云的博客
-  tagline: 逸云的航海日记
+  name: 逸云的航海日记
+  text: 记录我的出海历程，分享财富探险与产品灵感
+  tagline: 启航！在数字海洋中追寻财富与梦想
   image:
     src: /logo.svg
     alt: Vitest
