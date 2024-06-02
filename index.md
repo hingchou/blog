@@ -6,7 +6,7 @@ title: 逸云
 titleTemplate: 航海日记
 
 hero:
-  name: 逸云
+  name: 逸云的
   text: 航海日记
   tagline: 启航！在数字海洋中追寻财富与梦想
   image:
